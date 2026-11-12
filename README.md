@@ -1,16 +1,18 @@
-## Hi there 👋
+# Adam Tsumagami
 
-<!--
-**adamtsumagami/adamtsumagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer System Engineering undergraduate at Universitas Tanjungpura, based in Pontianak, Indonesia. I focus on cybersecurity, machine learning, system automation, and building practical tools across Linux and Windows environments.
 
-Here are some ideas to get you started:
+### Featured Projects
+- **[Phishing-URL-Detection](https://github.com/adamtsumagami)** — Machine learning pipeline for detecting phishing URLs using the Random Forest algorithm and lexical URL feature extraction.
+- **[Dotfiles-and-Automation](https://github.com/adamtsumagami)** — Custom Arch Linux (`bspwm`, `i3wm`, `Polybar`) configurations alongside PowerShell, Zsh, AutoHotkey, and Windows system optimization scripts.
+- **[POS-Cashier-System](https://github.com/adamtsumagami)** — Point-of-Sale cashier software architecture designed for fast retail transactions and daily operational tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` `PowerShell` `Bash` `Linux` `AutoHotkey` `SQL` `Git`
+
+### 2026 Focus
+- Completing undergraduate research on machine learning-based phishing detection and cybersecurity.
+- Deepening skills in system engineering, network security, and software development — open to collaborations and opportunities.
+
+---
+[GitHub](https://github.com/adamtsumagami) • [LinkedIn](https://linkedin.com/in/username-kamu) • emailkamu@gmail.com
