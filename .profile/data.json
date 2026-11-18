@@ -1,33 +1,25 @@
 {
- "key": "9d630126",
- "stars": 1,
- "contributions": 72,
- "repos": 7,
+ "key": "482f8906",
+ "stars": 0,
+ "contributions": 108,
+ "repos": 6,
  "followers": 1,
  "languages": [
   [
    "HTML",
-   317246
+   326130
   ],
   [
    "CSS",
-   155608
+   147980
   ],
   [
    "TypeScript",
-   97492
+   79755
   ],
   [
    "JavaScript",
-   46179
-  ],
-  [
-   "Python",
-   23174
-  ],
-  [
-   "Solidity",
-   11975
+   66288
   ]
  ],
  "days": [
@@ -122,7 +114,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 14,
     "day": 18,
     "today": true
    },
@@ -148,15 +140,6 @@
  ],
  "all": [
   {
-   "name": "To-Do-List-Blockchain",
-   "url": "https://github.com/adamtsumagami/To-Do-List-Blockchain",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
    "name": "nongki",
    "url": "https://github.com/adamtsumagami/nongki",
    "text": "Curated directory and platform to find coffee shops and cafes in Indonesia.",
@@ -175,6 +158,15 @@
    "topics": []
   },
   {
+   "name": "AFK-Selfbot",
+   "url": "https://github.com/adamtsumagami/AFK-Selfbot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "valbar-tournament-liquipedia",
    "url": "https://github.com/adamtsumagami/valbar-tournament-liquipedia",
    "text": "",
@@ -190,15 +182,6 @@
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "medical-records-blockchain",
-   "url": "https://github.com/adamtsumagami/medical-records-blockchain",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
