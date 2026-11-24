@@ -1,25 +1,25 @@
 {
- "key": "2afef550",
+ "key": "52eb1660",
  "stars": 1,
- "contributions": 115,
- "repos": 6,
+ "contributions": 122,
+ "repos": 7,
  "followers": 1,
  "languages": [
   [
-   "HTML",
-   301331
+   "TypeScript",
+   429615
   ],
   [
-   "TypeScript",
-   184612
+   "HTML",
+   198563
   ],
   [
    "CSS",
-   167788
+   197243
   ],
   [
    "JavaScript",
-   154638
+   167988
   ]
  ],
  "days": [
@@ -109,7 +109,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 11,
     "day": 24,
     "today": true
    },
@@ -130,7 +130,7 @@
    "text": "Curated directory and platform to find coffee shops and cafes in Indonesia.",
    "fork": false,
    "stars": 1,
-   "language": "HTML",
+   "language": "TypeScript",
    "topics": []
   }
  ],
@@ -141,7 +141,16 @@
    "text": "Curated directory and platform to find coffee shops and cafes in Indonesia.",
    "fork": false,
    "stars": 1,
-   "language": "HTML",
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "adamtsumagami.github.io",
+   "url": "https://github.com/adamtsumagami/adamtsumagami.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
