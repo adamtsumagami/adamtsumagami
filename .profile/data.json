@@ -1,7 +1,7 @@
 {
- "key": "52eb1660",
+ "key": "cbc18c5",
  "stars": 1,
- "contributions": 122,
+ "contributions": 124,
  "repos": 7,
  "followers": 1,
  "languages": [
@@ -11,11 +11,11 @@
   ],
   [
    "HTML",
-   198563
+   198793
   ],
   [
    "CSS",
-   197243
+   197227
   ],
   [
    "JavaScript",
@@ -111,16 +111,20 @@
    {
     "c": 11,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [
