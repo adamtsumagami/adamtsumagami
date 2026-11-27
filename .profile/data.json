@@ -1,5 +1,5 @@
 {
- "key": "dab6787e",
+ "key": "55b2d95b",
  "stars": 1,
  "contributions": 124,
  "repos": 7,
@@ -121,14 +121,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 5
  },
  "pins": [
